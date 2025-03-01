@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Drive Mate</string>
+    <string name="search_on_kayak">Search on Kayak</string>
+    <string name="drop_off_date_yyyy_mm_dd">Drop-off Date (YYYY-MM-DD)</string>
+    <string name="pickup_date_yyyy_mm_dd">Pickup Date (YYYY-MM-DD)</string>
+    <string name="drop_off_location_optional_e_g_sfo">Drop-off Location (optional, e.g., SFO)</string>
+    <string name="pickup_location_e_g_los_angeles_ca">Pickup Location (e.g., Los-Angeles,CA)</string>
+    <string name="drive_mate">Drive Mate</string>
+</resources>
